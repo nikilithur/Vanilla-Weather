@@ -70,6 +70,7 @@ h1 {
 
 .weather-app-details strong {
   color: #f65282;
+  font-weight: bold;
 }
 
 .weather-app-temperature-container {
@@ -93,14 +94,8 @@ h1 {
   color: #034e76;
 }
 
-#humidity {
-  color: #034e76;
-  font-weight: bold;
-}
-
-#wind-speed {
-  color: #034e76;
-  font-weight: bold;
+#icon {
+  margin-top: 5;
 }
 footer {
   border-top: 1px solid rgb(183, 221, 244);
